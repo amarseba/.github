@@ -1,4 +1,4 @@
-# Dharla Amar Seva Limited
+# Dhorola Amar Seba Limited
 Welcome to the official GitHub organization of Dhorola Amar Seba Limited, an innovative e-service platform dedicated to providing a wide range of digital services to the people of Bangladesh.
 
 # About Us
