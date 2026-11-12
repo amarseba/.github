@@ -1,41 +1,25 @@
-# Dhorola Amar Seba Limited
-Welcome to the official GitHub organization of Dhorola Amar Seba Limited, an innovative e-service platform dedicated to providing a wide range of digital services to the people of Bangladesh.
+# Dhorola Amar Seba Limited | ধরলা আমার সেবা লিমিটেড
 
-# About Us
-Dhorola Amar Seba Limited is committed to making everyday tasks easier and more accessible for everyone. Our platform offers various e-services, ensuring that essential services are available to everyone, saving time, money, and reducing the need for travel.
+**Amar Seba (আমার সেবা)** is a Bangladeshi online service platform. Citizens apply for Union Parishad and Pourashava certificates and trade licences, and use NID, voter, payment, mobile recharge and bulk SMS services in Bangla. Entrepreneurs run local digital service centres on the same platform.
 
-# Mission
-Our mission is to streamline access to essential services for the people of Bangladesh, leveraging technology to enhance convenience, efficiency, and reliability.
+**Official website: https://e-amarseba.com** (amarseba.net and amarseba.net.bd redirect there)
 
-# Services
-Initially launched with 8 services, Dharla Amar Seva Limited now offers a total of 40 services, including but not limited to:
+## What we offer
+- **Certificates and licences:** Union Parishad certificate, Pourashava certificate, union and pourashava trade licence (new and renewal), each with a QR code for public verification
+- **Verification:** check a certificate or trade licence is genuine at https://e-amarseba.com/verify
+- **NID and voter services:** NID server copy, voter slip printing, new voter application and related applications
+- **Payments and business:** Teletalk government job application fee payment, mobile recharge, bulk SMS, NFC e-business card, QR code maker
+- **Free tools:** Bijoy to Unicode Bangla text converter, fonts and forms downloads
+- **Learning:** Bangla video tutorials, help guides and FAQ
+- **Entrepreneurs:** open an Amar Seba digital centre in your area: https://e-amarseba.com/entrepreneur
+- **Developers:** API documentation: https://e-amarseba.com/developers
 
-# Government documentation
-- Utility payments
-- Educational services
-- Healthcare services
-- Financial services
-- Legal aid
+## Repositories
+- [nid-verify-app-releases](https://github.com/amarseba/nid-verify-app-releases): public release binaries (Android APK and Windows installer) and update manifest for the Amar Seba NID Verify app
 
-# Key Features
-User-Friendly Interface: Easy-to-navigate platform for seamless user experience.
-Wide Range of Services: Comprehensive list of services to meet daily needs.
-Secure Transactions: Robust security measures to protect user data and transactions.
-24/7 Availability: Access services anytime, anywhere.
-
-# Support and Contributions
-Dhorola Amar Seba Limited is supported by the Bangladesh Computer Council and the Information and Communication Technology Department of the Government of Bangladesh. We welcome contributions from the community to help improve and expand our services.
-
-# Getting Started
-To get started with our platform, visit our [official website](https://e-amarseba.com) or download our mobile app available on [Mobile APPS](https://e-amarseba.com/mobile-app)
-
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-# Contact Us
-For any inquiries, support, or feedback, please contact us at:
-
+## Contact
+- Hotline and WhatsApp: +8801845666999
 - Email: support@amarseba.net.bd
-- Address: 202 UTC Building (2nd Floor), Upazila Complex, Satkania, Chittagong-4386
-
-Thank you for being a part of Dhorola Amar Seba Limited. Together, we can make a differen
+- Facebook: https://www.facebook.com/amarseba
+- YouTube: https://www.youtube.com/@amarseba
+- Address: 202 UTC Building (2nd Floor), Upazila Complex, Satkania, Chittagong-4386, Bangladesh
